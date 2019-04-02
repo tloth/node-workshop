@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tloth/node-workshop#readme",
   "devDependencies": {
     "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "node": "^11.12.0"
   }
 }
